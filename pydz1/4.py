@@ -21,4 +21,5 @@ else:
     else:
         if m * n % k == 0:
             print("yes")
-        print("no")
+        else:
+            print("no")
